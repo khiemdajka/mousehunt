@@ -81,9 +81,9 @@
 3.2.2. Farming Twisted Carmine
 - Attracting TC: ~29% AR with Lunaria Camembert
 - Minlucking TC: 100 luck, can be achieved with:
-        - CSOS/PB14/Rainbow + LGS + ChromeSlayerWinter + 20xx codex
-        - CSOS/PB17/Rainbow + LGS + ChromeSlayer + 20xx codex
-        - CSOS/PB13/ULC + LGS + ChromeSlayer + 20xx codex
+    - CSOS/PB14/Rainbow + LGS + ChromeSlayerWinter + 20xx codex
+    - CSOS/PB17/Rainbow + LGS + ChromeSlayer + 20xx codex
+    - CSOS/PB13/ULC + LGS + ChromeSlayer + 20xx codex
 - Average chest essence: 1 Gur + 0.25 Fel = 0.12 Icuri -> 0.035 Icuri/hunt *(or 28.6 Lunaria/Icuri)*
 - [Essence farming calc](https://bit.ly/MH_Essence_calc)
 
