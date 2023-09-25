@@ -19,7 +19,7 @@
 - How much time and resources do I need to pour in to make it happen?
 - Do I really want to do this?
 
-The first two questions can be answered by using the chart below, while you can refer to UC Farming Guide in [References](#5-references) section for the third question. The last question can only be answered by yourself.
+The first two questions can be answered by using the chart below, while you can refer to UC Farming Guide in [References](#6-references) section for the third question. The last question can only be answered by yourself.
 
 ![Prestige push expectation](https://cdn.discordapp.com/attachments/869153158335713300/1032513218159067216/MH_VRift_Push_viz_final.png)
 
@@ -92,4 +92,4 @@ Then you can do the steps below.
 - Start the climb with **Super Siphon** + **Ultimate Umbra** + **String Stepping** augmentations. All other augmentations are optional, except for **Elixir Rain** which should not be activate, to save Secrets.
 - Retreat if the chance of reaching the ***aim*** drops to ***0%***.
 - In case you have more than 1 checkpoints *(like me, I believe in second chances)*, retreat if the chance of all the aims drop to 0%.
-- If you achieve the ***aim***, turn off your brain and commit to the run. Don't forget to pray in <#398846322154799104> every once in a while 😉
+- If you achieve the ***aim***, turn off your brain and commit to the run. 😉
