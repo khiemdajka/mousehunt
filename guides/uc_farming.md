@@ -1,5 +1,10 @@
 # Ultimate Charm Farming Guide
 
+**Table of Contents**
+1. [Non-event sources](#1-non-event-sources)
+2. [Event sources](#2-event-sources-direct)
+3. [Ultimate Potion conversion](#3-ultimate-potion-conversion)
+
 ## 1. Non-event sources
 
 1.1. Mouse loot
