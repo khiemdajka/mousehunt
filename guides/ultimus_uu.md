@@ -35,8 +35,10 @@ Average UC needed: **475** Ultimate Charm
 - You can do your climb in parts, since no aura/event boost needed for the actual climb. Even without having enough UC, starting to get your PB stats higher helps speeding up the UC farming process (i.e. minluck Twisted Carmine with lesser charm and fewer auras)
 - 300-400 UC is a good point to start. It takes about 600 hunts to reach TE14 and about 850 hunts to reach TE17, and those 2 are the checkpoints that helps minlucking TC easier. You can always farm more UC later.
 - [Retreat strategy](https://discord.com/channels/275500976662773761/930851824234274816/1036980640157020353)
-- [Saving CF without costing more hunts](https://discord.com/channels/275500976662773761/930851824234274816/1035864390106353796)
+- Saving CF without costing more hunts\
+![Saving CF](https://cdn.discordapp.com/attachments/930851824234274816/1035864389665968168/unknown.png)
 
 ## 5. References
 - [UC Farming Guide](uc_farming.md)
-- [Prestige push expectation](https://discord.com/channels/275500976662773761/1083825356240334868/1084870994310742036)
+- Prestige push expectation\
+![Prestige push expectation](https://cdn.discordapp.com/attachments/869153158335713300/1032513218159067216/MH_VRift_Push_viz_final.png)
