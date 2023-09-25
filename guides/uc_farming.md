@@ -42,7 +42,7 @@
 - Ronza: 1 voucher for 10 UC -> **20** per event
 - Great Winter Hunt: *at least* **1** per event *(Advent Calendar)*
 - GWH 2022+: 1% from Ice Fortress charm cannon, double-able with Festive Spirit
-- GWH 2022+: 92% from Zokor Scarf ||-> 40 to 150 UC per GWH if you dedicate your scarves there||
+- GWH 2022+: 92% from Zokor Scarf *-> 40 to 150 UC per GWH if you dedicate your scarves there*
 
 2.2. Semi-annual events
 2.2.1. King's Giveaway:
@@ -68,7 +68,7 @@
  - 14.3% of boon being UC pot
  - 2 pot per proc if using Alchemist base as well
  - Average of **32** UC pot for a 2800-hunt Halloween
-- Apothecary: 20 Evil Extract per UC pot, can check [Halloween calc](<https://bit.ly/MH_UC_Hween_calc>) here to see how much EE you can likely farm ||(spoiler: should be between **100** and **350** UC pots per Halloween)||
+- Apothecary: 20 Evil Extract per UC pot, can check [Halloween calc](https://bit.ly/MH_UC_Hween_calc) here to see how much EE you can likely farm *(should be between **100** and **350** UC pots per Halloween)*
 
 3.2. Essence farming
 3.2.1. Farming Lunaria materials
@@ -81,12 +81,12 @@
 3.2.2. Farming Twisted Carmine
 - Attracting TC: ~29% AR with Lunaria Camembert
 - Minlucking TC: 100 luck, can be achieved with:
- - CSOS/PB14/Rainbow + LGS + ChromeSlayerWinter + 20xx codex
- - CSOS/PB17/Rainbow + LGS + ChromeSlayer + 20xx codex
- - CSOS/PB13/ULC + LGS + ChromeSlayer + 20xx codex
+        - CSOS/PB14/Rainbow + LGS + ChromeSlayerWinter + 20xx codex
+        - CSOS/PB17/Rainbow + LGS + ChromeSlayer + 20xx codex
+        - CSOS/PB13/ULC + LGS + ChromeSlayer + 20xx codex
 - Average chest essence: 1 Gur + 0.25 Fel = 0.12 Icuri -> 0.035 Icuri/hunt *(or 28.6 Lunaria/Icuri)*
-- [Essence farming calc](<https://bit.ly/MH_Essence_calc>)
+- [Essence farming calc](https://bit.ly/MH_Essence_calc)
 
 3.2.3. Essence from GWH golems
 - GWH 2019-2021: 0.01 Icuri/exceptional slot, 0.094 Icuri/hat -> **30** to **80** Icuri per GWH
-- ***GWH 2022***: 0.0024 Icuri/slot, 0.098 Icuri/hat -> **10** to ||**100**|| Icuri per GWH
+- ***GWH 2022***: 0.0024 Icuri/slot, 0.098 Icuri/hat *-> **10** to **100** Icuri per GWH*
