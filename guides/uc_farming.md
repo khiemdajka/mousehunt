@@ -33,7 +33,7 @@
 - [Unstable Magnum Opus](https://www.mousehuntgame.com/item.php?item_type=unstable_magnum_opus_convertible) (5%)
 - [Unstable Rift Core](https://www.mousehuntgame.com/item.php?item_type=unstable_core_convertible) (0.5%)
 - [Ful'Mina's Gift](https://www.mousehuntgame.com/item.php?item_type=fulminas_gift_convertible) (0.1%)
-- [Royal Loot Crate](https://www.mousehuntgame.com/item.php?item_type=kings_credit_loot_crate_convertible)
+- [Royal Loot Crate](https://www.mousehuntgame.com/item.php?item_type=kings_credit_loot_crate_convertible) (0.02%)
 
 1.5. Charm Shoppe: 187,500 gold + 375,000 Nachore in Queso Canyon
 
