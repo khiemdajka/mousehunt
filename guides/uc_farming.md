@@ -1,30 +1,33 @@
 # Ultimate Charm Farming Guide
 
+*This is the complete list of all [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket) (UC) sources. If you want to farm a large quantity of UC, you should do your own math to measure the speed, spending, and effectiveness of each method.*
+
 **Table of Contents**
-1. [Non-event sources](#1-non-event-sources)
-2. [Event sources](#2-event-sources-direct)
-3. [Ultimate Potion conversion](#3-ultimate-potion-conversion)
+- [Ultimate Charm Farming Guide](#ultimate-charm-farming-guide)
+  - [1. Non-event sources](#1-non-event-sources)
+  - [2. Event sources (direct)](#2-event-sources-direct)
+  - [3. Ultimate Potion conversion](#3-ultimate-potion-conversion)
 
 ## 1. Non-event sources
 
 1.1. Mouse loot
-- SC LotA (5%)
-- Retired Minotaur (1.6%, 3 UC each time it drops)
-- Kalor (0-3 UC per tonic-ed WF Nest)
-- Consumed Charm Tinkerer (1%)
-- MotM (0.5%) & HotM
-- Ful'Mina (0.25%)
-- Absolute Acolyte (>0.3%) *requires Acolyte buff*
+- Lair of the Ancient in Sunken City (5%)
+- Retired Minotaur in Zokor (1.6%, 3 UC each time it drops)
+- Kalor'Ignis of the Geyser in Queso Geyser (0-3 UC per tonic-ed WF Nest)
+- Consumed Charm Tinkerer in Floating Islands (1%)
+- Monster of the Meteor (0.5%) & Heart of the Meteor in Fort Rox
+- Ful'Mina, the Mountain Queen in Moussu Picchu (0.25%)
+- Absolute Acolyte in Bristle Woods Rift (>0.3%) *requires Acolyte buff*
 
 1.2. Crafting: 187,500 gold + 3 shattering loot
 
 1.3. Treasure Chests
 - Rare Empyrean Sky Palace (4.7%)
 - Rare Moussu Picchu (0.5%)
-- Rare QCGT (0.2%)
+- Rare Queso Canyon Grand Tour (0.2%)
 - Rare Queso Canyoneer (0.2%)
 - Any Elite-level chest
-- Any RH chest
+- Any Relic Hunter chest
 
 1.4. Other convertibles
 - Unstable Magnum Opus (5%)
@@ -46,8 +49,8 @@
 - Spring Egg Hunt: 800 Chocolatonium per UC -> **5** - **10** per event
 - Ronza: 1 voucher for 10 UC -> **20** per event
 - Great Winter Hunt: *at least* **1** per event *(Advent Calendar)*
-- GWH 2022+: 1% from Ice Fortress charm cannon, double-able with Festive Spirit
-- GWH 2022+: 92% from Zokor Scarf *-> 40 to 150 UC per GWH if you dedicate your scarves there*
+    - GWH 2022+: 1% from Ice Fortress charm cannon, double-able with Festive Spirit
+    - GWH 2022+: 92% from Zokor Scarf *-> 40 to 150 UC per GWH if you dedicate your scarves there*
 
 2.2. Semi-annual events
 2.2.1. King's Giveaway:
