@@ -1,17 +1,29 @@
 # Ultimus Ultimate Umbra Guide
-*a.k.a. UC Prestige Push*
+*a.k.a. Prestige Push using Ultimate Charm*
+
+*This is an advance guide for Valour Rift area. For the general guide of this area, refer to [Valour Rift Guide](valour_rift.md)*
 
 **Table of Contents**
-1. [Know what to expect](#1-know-what-to-expect)
-2. [Requirements](#2-requirements)
-3. [Popular plan](#3-popular-plan)
-4. [Using the simulators](#4-using-the-simulators)
-    1. [Simulators](#41-simulators)
-    2. [Comparing run performance](#42-comparing-run-performance)
-5. [Considerations](#5-considerations)
-6. [References](#6-references)
+- [0. What is this all about again?](#0-what-is-this-all-about-again)
+- [1. Know what to expect](#1-know-what-to-expect)
+- [2. Requirements](#2-requirements)
+- [3. Popular plan](#3-popular-plan)
+- [4. Using the simulators](#4-using-the-simulators)
+  - [4.1. Simulators](#41-simulators)
+  - [4.2. Comparing run performance](#42-comparing-run-performance)
+- [5. Considerations](#5-considerations)
+- [6. References](#6-references)
 
 [Extension: Retreat strategy](#extension-retreat-strategy)
+
+## 0. What is this all about again?
+Valour Rift is the place where you can earn the greatest piece of equipment in the game: [Prestige Base](https://www.mousehuntgame.com/item.php?item_type=valour_rift_prestige_base). It is the [Base](https://www.mousehuntgame.com/inventory.php?tab=traps&sub_tab=base) with upgradable stats. By the time this guide is written, the most successful hunter has boosted his Prestige Base to 3,450 power and 41 luck. Additionally, because it is a Rift-type Base, your setup can enjoy up to 40% power bonus and 10 luck on top of whatever stats you have. Awesome, isn't it?
+
+To boost the stats of this Base, you need to climb the tower in hard mode, which is called **Ultimate Umbra** in the game. Catches let you advance, while misses push you back. So, to climb as high as you can, you want your catch rate to be as high as possible. To the crazy hunters out there, the catch rate of 100% is what they seek, and certainly [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket) is needed to achieve that.
+
+For that very reason, this is an ***"Everything you need to know about doing Prestige Push with Ultimate Charm"*** guidebook for this quest. Believe me, this guide will provide you the absolute knowledge, just like your catch rate ;)
+
+Now, let's not delay any further. Here I present to you: The **Ultimus Ultimate Umbra Guide**:
 
 ## 1. Know what to expect
 - How high can I climb with all UC?
@@ -19,27 +31,29 @@
 - How much time and resources do I need to pour in to make it happen?
 - Do I really want to do this?
 
+These are the frequently asked questions when one starts thinking about an UUU run. You need to think through before committing your time and resources to do this kind of stretch goal, right?
+
 The first two questions can be answered by using the chart below, while you can refer to UC Farming Guide in [References](#6-references) section for the third question. The last question can only be answered by yourself.
 
 ![Prestige push expectation](https://cdn.discordapp.com/attachments/869153158335713300/1032513218159067216/MH_VRift_Push_viz_final.png)
 
 ## 2. Requirements
 - Before the run:
-    - 1000 Tower Sigils
-    - 75 Fragments of the Eclipse
-    - 1500 Tower Secrets
+    - 1000 [Tower Sigils](https://www.mousehuntgame.com/item.php?item_type=rift_gaunt_upgrade_a_stat_item)
+    - 75 [Fragments of the Eclipse](https://www.mousehuntgame.com/item.php?item_type=shade_eclipse_resource_stat_item)
+    - 1500 [Tower Secrets](https://www.mousehuntgame.com/item.php?item_type=rift_gaunt_upgrade_b_stat_item)
 - During the run:
-    - 1000 Gauntlet String Cheese
-    - 500 Ultimate Charm
-    - 1000 Champion's Fire (the run itself will refund 500+ CF from poking Unstable Rift Cores, so only 500 CF spent)
+    - 1000 [Gauntlet String Cheese](https://www.mousehuntgame.com/item.php?item_type=gauntlet_string_cheese)
+    - 500 [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket)
+    - 1000 [Champion's Fire](https://www.mousehuntgame.com/item.php?item_type=rift_gauntlet_fuel_stat_item) (the run itself will refund 500+ CF from poking [Unstable Rift Cores](https://www.mousehuntgame.com/item.php?item_type=unstable_core_convertible), so only 500 CF spent)
 
-Average UC needed: **475** Ultimate Charm
+Average UC needed: **475** [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket)
 
 ## 3. Popular plan
-- Step 1: Farm Ultimate Potion during Halloween(s)
-- Step 2: Farm Plumepearl Herbs and Lunaria Petal during GWH
-- Step 3: Farm Twisted Carmine for essence after GWH (can farm during LNY as well)
-- Step 4: Push with UC
+- Step 1: Farm [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion) during Halloween(s)
+- Step 2: Farm [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item) and [Lunaria Petal](https://www.mousehuntgame.com/item.php?item_type=lunaria_petal_crafting_item) during GWH
+- Step 3: Farm [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine) for essence after Great Winter Hunt (can farm during Lunar New Year as well)
+- Step 4: Push with [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket)
 
 ## 4. Using the simulators
 ### 4.1. Simulators
@@ -63,7 +77,7 @@ Average UC needed: **475** Ultimate Charm
 ## 5. Considerations
 - You can do your climb in parts, since no aura/event boost needed for the actual climb. Even without having enough UC, starting to get your PB stats higher helps speeding up the UC farming process (i.e. minluck Twisted Carmine with lesser charm and fewer auras)
 - 300-400 UC is a good point to start. It takes about 600 hunts to reach TE14 and about 850 hunts to reach TE17, and those 2 are the checkpoints that helps minlucking TC easier. You can always farm more UC later.
-- [Retreat strategy](#extension-retreat-strategy)
+- [Retreat strategy](#extension-retreat-strategy) is something you can consider doing at the beginning of your push.
 - Saving CF without costing more hunts\
 ![Saving CF](https://cdn.discordapp.com/attachments/930851824234274816/1035864389665968168/unknown.png)
 
