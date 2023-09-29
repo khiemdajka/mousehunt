@@ -4,15 +4,17 @@
 *This is an advance guide for Valour Rift area. For the general guide of this area, refer to [Valour Rift Guide](valour_rift.md)*
 
 **Table of Contents**
-- [0. What is this all about again?](#0-what-is-this-all-about-again)
-- [1. Know what to expect](#1-know-what-to-expect)
-- [2. Requirements](#2-requirements)
-- [3. Popular plan](#3-popular-plan)
-- [4. Using the simulators](#4-using-the-simulators)
-  - [4.1. Simulators](#41-simulators)
-  - [4.2. Comparing run performance](#42-comparing-run-performance)
-- [5. Considerations](#5-considerations)
-- [6. References](#6-references)
+- [Ultimus Ultimate Umbra Guide](#ultimus-ultimate-umbra-guide)
+  - [0. What is this all about again?](#0-what-is-this-all-about-again)
+  - [1. Know what to expect](#1-know-what-to-expect)
+  - [2. Requirements](#2-requirements)
+  - [3. Popular plan](#3-popular-plan)
+  - [4. Using the simulators](#4-using-the-simulators)
+    - [4.1. Simulators](#41-simulators)
+    - [4.2. Comparing run performance](#42-comparing-run-performance)
+  - [5. Considerations](#5-considerations)
+  - [6. References](#6-references)
+  - [Extension: Retreat strategy](#extension-retreat-strategy)
 
 [Extension: Retreat strategy](#extension-retreat-strategy)
 
