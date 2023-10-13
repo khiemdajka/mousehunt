@@ -52,10 +52,17 @@ The first two questions can be answered by using the chart below, while you can 
 Average UC needed: **475** [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket)
 
 ## 3. Popular plan
-- Step 1: Farm [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion) during Halloween(s)
-- Step 2: Farm [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item) and [Lunaria Petal](https://www.mousehuntgame.com/item.php?item_type=lunaria_petal_crafting_item) during GWH
-- Step 3: Farm [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine) for essence after Great Winter Hunt (can farm during Lunar New Year as well)
+- Step 1: Utilize Halloween event:
+  - Farm [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion)
+  - Spam Spooky Shuffle (Upgraded Baron-Duke boards) for [Plumepearl Herbs] and [Lunaria Petal]
+- Step 2: Be a golem master during Great Winter Hunt:
+  - Send Scarved Golem to Zokor for direct UC
+  - Send Scarved Golem to Lost City for [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item)
+  - Send Scarved Golem to Sand Dunes for [Lunaria Petal](https://www.mousehuntgame.com/item.php?item_type=lunaria_petal_crafting_item)
+- Step 3: Farm [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine) for essence to brew Ultimate Potion after Great Winter Hunt (can farm during Lunar New Year as well, not recommended though)
 - Step 4: Push with [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket)
+
+*(check [6. References](#6-references) for UC farming guide with details on Step 1, 2, and 3)*
 
 ## 4. Using the simulators
 ### 4.1. Simulators
