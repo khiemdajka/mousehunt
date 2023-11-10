@@ -111,7 +111,7 @@
   - Halloween Upgrade Baron-Duke Shuffle board: 17.86% to appear, 30 per appearance -> average of 5.36 Lunaria + 5.36 Plumepearl = 7.14 Camembert per board
   - GWH golems:
     - GWH 2017-2021: 12.8 Plumepearl per Lost City golem, 12.8 Lunaria per Sand Dunes golem -> 235+235=470 golems for 3000 Lunaria + 3000 Plumepearl = 4000 Camembert
-    - ***GWH 2022***: 60 Lunaria mat per Scarf, 18 per Hat, 0.4 mat/slot
+    - ***GWH 2022***: 60 Lunaria mat per Scarf, 18 per Hat, 0.4 mat/slot -> 50+50=100 Scarves for 3000 Lunaria + 3000 Plumepearl = 4000 Camembert
 - **Step 2**: Farming [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine)
   - Attracting TC: ~29% AR with [Lunaria Camembert](https://www.mousehuntgame.com/item.php?item_type=lunaria_camembert_cheese)
   - Minlucking TC: 100 luck, can be achieved with:
