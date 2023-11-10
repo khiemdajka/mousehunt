@@ -105,22 +105,25 @@
     - Average of **24** Ultimate pot for a 2800-hunt Halloween (300 hunts to unlock boon and 2500 hunts with boon)
 
 ### 3.2. Essence farming
-3.2.1. Farming [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item) and [Lunaria Petal](https://www.mousehuntgame.com/item.php?item_type=lunaria_petal_crafting_item)
-- Standard farming: ~0.6 mat/hunt -> ~1000 hunts for 300 Lunaria + 300 Plumepearl = 400 [Camembert](https://www.mousehuntgame.com/item.php?item_type=lunaria_camembert_cheese) *(using [Living Base](https://www.mousehuntgame.com/item.php?item_type=living_base))*
-- Halloween Upgrade Baron-Duke Shuffle board: 17.86% to appear, 30 per appearance -> average of 5.36 Lunaria + 5.36 Plumepearl = 7.14 Camembert per board
-- GWH golems:
-  - GWH 2017-2021: 12.8 Plumepearl per Lost City golem, 12.8 Lunaria per Sand Dunes golem -> 235+235=470 golems for 3000 Lunaria + 3000 Plumepearl = 4000 Camembert
-  - ***GWH 2022***: 60 Lunaria mat per Scarf, 18 per Hat, 0.4 mat/slot
-
-3.2.2. Farming [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine)
-- Attracting TC: ~29% AR with [Lunaria Camembert](https://www.mousehuntgame.com/item.php?item_type=lunaria_camembert_cheese)
-- Minlucking TC: 100 luck, can be achieved with:
-  - CSOS/PB14/Rainbow + LGS + ChromeSlayerWinter + 20xx codex
-  - CSOS/PB17/Rainbow + LGS + ChromeSlayer + 20xx codex
-  - CSOS/PB13/ULC + LGS + ChromeSlayer + 20xx codex
-- Average chest essence: 1 [Gur Essence](https://www.mousehuntgame.com/item.php?item_type=essence_g_crafting_item) + 0.25 [Fel Essence](https://www.mousehuntgame.com/item.php?item_type=essence_f_crafting_item) = 0.12 [Icuri Essence](https://www.mousehuntgame.com/item.php?item_type=essence_i_crafting_item) -> 0.035 Icuri/hunt *(or 28.6 Lunaria/Icuri)*
+3.2.1. Standard farming method
+- **Step 1**: Farming [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item) and [Lunaria Petal](https://www.mousehuntgame.com/item.php?item_type=lunaria_petal_crafting_item)
+  - Hunting in Cursed City and Sand Crypts: ~0.6 mat/hunt -> ~1000 hunts for 300 Lunaria + 300 Plumepearl = 400 [Camembert](https://www.mousehuntgame.com/item.php?item_type=lunaria_camembert_cheese) *(using [Living Base](https://www.mousehuntgame.com/item.php?item_type=living_base))*
+  - Halloween Upgrade Baron-Duke Shuffle board: 17.86% to appear, 30 per appearance -> average of 5.36 Lunaria + 5.36 Plumepearl = 7.14 Camembert per board
+  - GWH golems:
+    - GWH 2017-2021: 12.8 Plumepearl per Lost City golem, 12.8 Lunaria per Sand Dunes golem -> 235+235=470 golems for 3000 Lunaria + 3000 Plumepearl = 4000 Camembert
+    - ***GWH 2022***: 60 Lunaria mat per Scarf, 18 per Hat, 0.4 mat/slot
+- **Step 2**: Farming [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine)
+  - Attracting TC: ~29% AR with [Lunaria Camembert](https://www.mousehuntgame.com/item.php?item_type=lunaria_camembert_cheese)
+  - Minlucking TC: 100 luck, can be achieved with:
+    - CSOS/PB14/Rainbow + LGS + ChromeSlayerWinter + 20xx codex
+    - CSOS/PB17/Rainbow + LGS + ChromeSlayer + 20xx codex
+    - CSOS/PB13/ULC + LGS + ChromeSlayer + 20xx codex
+  - Average chest essence: 1 [Gur Essence](https://www.mousehuntgame.com/item.php?item_type=essence_g_crafting_item) + 0.25 [Fel Essence](https://www.mousehuntgame.com/item.php?item_type=essence_f_crafting_item) = 0.12 [Icuri Essence](https://www.mousehuntgame.com/item.php?item_type=essence_i_crafting_item) -> 0.035 Icuri/hunt *(or 28.6 Lunaria/Icuri)*
 - [Essence farming calc](https://bit.ly/MH_Essence_calc)
 
-3.2.3. Essence from GWH golems
-- GWH 2019-2021: 0.01 Icuri/exceptional slot, 0.094 Icuri/hat -> **30** to **80** Icuri per GWH
-- ***GWH 2022***: 0.0024 Icuri/slot, 0.098 Icuri/hat *-> **10** to **100** Icuri per GWH*
+3.2.2. Events and LE sources
+- Great Winter Hunt golems
+  - GWH 2019-2021: 0.01 Icuri/exceptional slot, 0.094 Icuri/hat -> **30** to **80** Icuri per GWH
+  - ***GWH 2022***: 0.0024 Icuri/slot, 0.098 Icuri/hat *-> **10** to **100** Icuri per GWH*
+- [Aurora Base *(LE)*](https://www.mousehuntgame.com/item.php?item_type=aurora_base) procs *(rate unknown, not worth)*
+- [Desert Heater Base *(LE)*](https://www.mousehuntgame.com/item.php?item_type=desert_heater_base) *(average of 0.236 Icuri per 100 hunt)*
