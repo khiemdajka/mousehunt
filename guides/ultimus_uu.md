@@ -16,8 +16,6 @@
   - [6. References](#6-references)
   - [Extension: Retreat strategy](#extension-retreat-strategy)
 
-[Extension: Retreat strategy](#extension-retreat-strategy)
-
 ## 0. What is this all about again?
 Valour Rift is the place where you can earn the greatest piece of equipment in the game: [Prestige Base](https://www.mousehuntgame.com/item.php?item_type=valour_rift_prestige_base). It is the [Base](https://www.mousehuntgame.com/inventory.php?tab=traps&sub_tab=base) with upgradable stats. By the time this guide is written, the most successful hunter has boosted his Prestige Base to 3,450 power and 41 luck. Additionally, because it is a Rift-type Base, your setup can enjoy up to 40% power bonus and 10 luck on top of whatever stats you have. Awesome, isn't it?
 
@@ -54,7 +52,7 @@ Average UC needed: **475** [Ultimate Charm](https://www.mousehuntgame.com/item.p
 ## 3. Popular plan
 - Step 1: Utilize Halloween event:
   - Farm [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion)
-  - Spam Spooky Shuffle (Upgraded Baron-Duke boards) for [Plumepearl Herbs] and [Lunaria Petal]
+  - Spam Spooky Shuffle (Upgraded Baron-Duke boards) for [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item) and [Lunaria Petal](https://www.mousehuntgame.com/item.php?item_type=lunaria_petal_crafting_item)
 - Step 2: Be a golem master during Great Winter Hunt:
   - Send Scarved Golem to Zokor for direct UC
   - Send Scarved Golem to Lost City for [Plumepearl Herbs](https://www.mousehuntgame.com/item.php?item_type=plumepearl_herbs_crafting_item)
