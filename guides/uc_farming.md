@@ -11,7 +11,6 @@
     - [1.4. Other convertibles](#14-other-convertibles)
     - [1.5. Charm Shoppe](#15-charm-shoppe)
     - [1.6. Unstable Charm proc (0.005%)](#16-unstable-charm-proc-0005)
-    - [1.7. Queso Cannonstorm Base (LE) proc (0.16%)](#17-queso-cannonstorm-base-le-proc-016)
   - [2. Event sources (direct)](#2-event-sources-direct)
     - [2.1. Current annual events](#21-current-annual-events)
     - [2.2. Semi-annual events](#22-semi-annual-events)
@@ -59,8 +58,6 @@
 
 ### 1.6. [Unstable Charm](https://www.mousehuntgame.com/item.php?item_type=unstable_trinket) proc (0.005%)
 
-### 1.7. [Queso Cannonstorm Base](https://www.mousehuntgame.com/item.php?item_type=queso_cannonstorm_base) (LE) proc (0.16%)
-
 ## 2. Event sources (direct)
 
 ### 2.1. Current annual events
@@ -88,6 +85,7 @@
 
 ### 2.4. Honorable mentions
 - [Rare New Year's Party Treasure Chest](https://www.mousehuntgame.com/item.php?item_type=rare_new_years_chest_convertible) (0.5%)
+- [Queso Cannonstorm Base *(LE)*](https://www.mousehuntgame.com/item.php?item_type=queso_cannonstorm_base) proc (0.16%)
 
 ## 3. [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion) conversion
 
