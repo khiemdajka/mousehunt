@@ -70,6 +70,7 @@
 - Ronza: 1 [Chrome Kit Voucher](https://www.mousehuntgame.com/item.php?item_type=chrome_bucket_ronza_2019_stat_item) for 1 [Crate of Ultimate Charms](https://www.mousehuntgame.com/item.php?item_type=ultimate_crate_convertible) = 10 UC -> **20** per event
 - Great Winter Hunt: *at least* **1** per event *(Advent Calendar)*
   - GWH 2022+: 1% from Ice Fortress charm cannon, double-able with [Festive Spirit](https://www.mousehuntgame.com/item.php?item_type=festive_spirit_stat_item)
+  - GWH 2022+: 2% from Frost King, double-able with [Festive Spirit](https://www.mousehuntgame.com/item.php?item_type=festive_spirit_stat_item)
   - GWH 2022+: 92% from Zokor [Scarf](https://www.mousehuntgame.com/item.php?item_type=golden_scarf_stat_item) *-> 40 to 150 UC per GWH if you dedicate your scarves there*
 
 ### 2.2. Semi-annual events
