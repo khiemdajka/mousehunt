@@ -1,5 +1,5 @@
 # Ultimate Charm Farming Guide
-*version 2023.12.10*
+*version 2023.GWH*
 
 *This is the complete list of all [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket) (UC) sources. If you want to farm a large quantity of UC, you should do your own math to measure the speed, spending, and effectiveness of each method.*
 
@@ -69,10 +69,10 @@
 - Great Winter Hunt: *at least* **1** per event *(Advent Calendar)*
   - GWH 2022+: 1% from Ice Fortress charm cannon, double-able with [Festive Spirit](https://www.mousehuntgame.com/item.php?item_type=festive_spirit_stat_item)
   - GWH 2022+: 2% from Frost King, double-able with [Festive Spirit](https://www.mousehuntgame.com/item.php?item_type=festive_spirit_stat_item)
-  - GWH 2022: 92% from Zokor [Scarf](https://www.mousehuntgame.com/item.php?item_type=golden_scarf_stat_item) *-> 40 to 150 UC per GWH if you dedicate your scarves there*
-  - GWH 2023 *data coming soon*
-    - Zokor Scarf
-    - Zokor Hat
+  - GWH 2022: 92% from Zokor [Scarf](https://www.mousehuntgame.com/item.php?item_type=golden_scarf_stat_item)
+  - GWH 2023:
+    - Zokor Scarf: 60%
+    - Zokor Hat: 8% per slot -> 0.24 UC per Hat
 
 ### 2.2. Semi-annual events
 2.2.1. King's Giveaway:
@@ -115,7 +115,7 @@
   - GWH golems:
     - GWH 2017-2021: 12.8 Plumepearl per Lost City golem, 12.8 Lunaria per Sand Dunes golem -> 235+235=470 golems for 3000 Lunaria + 3000 Plumepearl = 4000 Camembert
     - GWH 2022: 60 Lunaria mat per Scarf, 18 per Hat, 0.4 mat/slot -> 50+50=100 Scarves for 3000 Lunaria + 3000 Plumepearl = 4000 Camembert
-    - GWH 2023 *data coming soon*
+    - GWH 2023: 60 Lunaria mat per Scarf, 37.5 per Hat -> same rate for Scarves and much better rate for Hats
 - **Step 2**: Farming [Twisted Carmine](https://www.mousehuntgame.com/adversaries.php?mouse=twisted_carmine)
   - Attracting TC: ~29% AR with [Lunaria Camembert](https://www.mousehuntgame.com/item.php?item_type=lunaria_camembert_cheese)
   - Minlucking TC: 100 luck, can be achieved with:
@@ -129,6 +129,7 @@
 - Great Winter Hunt golems
   - GWH 2019-2021: 0.01 Icuri/exceptional slot, 0.094 Icuri/hat -> **30** to **80** Icuri per GWH
   - GWH 2022: 0.0024 Icuri/slot, 0.098 Icuri/hat *-> **10** to **100** Icuri per GWH*
-  - GWH 2023 *data coming soon*
+  - GWH 2023:
+    - LG/LC/SD Hat: 0.2 Icuri/hat -> doubles expected number compared to 2022
 - [Aurora Base *(LE)*](https://www.mousehuntgame.com/item.php?item_type=aurora_base) procs *(rate unknown, not worth)*
 - [Desert Heater Base *(LE)*](https://www.mousehuntgame.com/item.php?item_type=desert_heater_base) *(average of 0.236 Icuri per 100 hunt)*
