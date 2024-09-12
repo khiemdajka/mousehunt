@@ -1,5 +1,5 @@
 # Ultimate Charm Farming Guide
-*version 2024.SEH*
+*version 2024.DD*
 
 *This is the complete list of all [Ultimate Charm](https://www.mousehuntgame.com/item.php?item_type=ultimate_trinket) (UC) sources. If you want to farm a large quantity of UC, you should do your own math to measure the speed, spending, and effectiveness of each method.*
 
@@ -33,6 +33,11 @@
 - [Monster of the Meteor](https://www.mousehuntgame.com/adversaries.php?mouse=monster_of_the_meteor) (0.5%) & [Heart of the Meteor](https://www.mousehuntgame.com/adversaries.php?mouse=heart_of_the_meteor) in Fort Rox
 - [Ful'Mina, The Mountain Queen](https://www.mousehuntgame.com/adversaries.php?mouse=ful_mina_mountain_queen) in Moussu Picchu (0.25%)
 - [Absolute Acolyte](https://www.mousehuntgame.com/adversaries.php?mouse=rift_acolyte) in Bristle Woods Rift (>0.3%) *requires Acolyte buff*
+- 4 mice in Draconic Depths: 0.05%
+  - [Incendarius the Unquenchable](https://www.mousehuntgame.com/adversaries.php?mouse=incendarius_the_unquenchable)
+  - [Avalancheus the Glacial](https://www.mousehuntgame.com/adversaries.php?mouse=avalancheus_the_glacial)
+  - [Pestilentia the Putrid](https://www.mousehuntgame.com/adversaries.php?mouse=pestilentia_the_putrid)
+  - [Three'amat the Mother of Dragons](https://www.mousehuntgame.com/adversaries.php?mouse=threeimat)
 
 ### 1.2. Crafting
 - 187,500 gold
@@ -91,6 +96,7 @@
 ### 2.4. Honorable mentions
 - [Rare New Year's Party Treasure Chest](https://www.mousehuntgame.com/item.php?item_type=rare_new_years_chest_convertible) (0.5%)
 - [Queso Cannonstorm Base *(LE)*](https://www.mousehuntgame.com/item.php?item_type=queso_cannonstorm_base) proc (0.16%)
+- Ronza 2024 adventure (**3** UC)
 
 ## 3. [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion) conversion
 ### 3.1. [Ultimate Potion](https://www.mousehuntgame.com/item.php?item_type=ultimate_potion) farming *(tied to Halloween event)*
